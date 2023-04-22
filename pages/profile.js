@@ -1,5 +1,4 @@
-
- import React from 'react';
+import React from 'react';
 import User from '../components/User';
 import SignOutButton from '../components/SignOutButton';
 import { useAuth } from '../utils/context/authContext';

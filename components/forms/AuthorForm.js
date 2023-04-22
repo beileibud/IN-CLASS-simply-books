@@ -122,4 +122,3 @@ AuthorForm.defaultProps = {
 };
 
 export default AuthorForm;
-
